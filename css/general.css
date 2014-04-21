@@ -36,6 +36,10 @@ header {
     background-color: darkturquoise;
 }
 
+h1 {
+    text-align: center;
+}
+
 .logo {
     width:  10rem;
     height: auto;
@@ -89,8 +93,8 @@ h1 {
 }
 
 figure {
-    margin: 0 auto 1.5rem;
-    width: 60%;
+    margin: 0 auto 0;
+    width: 100%;
 }
 
 figure a,
